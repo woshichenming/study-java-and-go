@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: admin
+      host: 192.168.3.3
+      password: 123456
+      username: chenming
+      port: 27017
+      authentication-database: admin
